@@ -1,0 +1,15 @@
+{
+  "name": "modlink",
+  "version": "1.0.0",
+  "description": "A version aware sub-module flattener",
+  "main": "lib/modlink.js",
+  "bin": "./lib/modlink.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen Pair",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.5.0"
+  }
+}
